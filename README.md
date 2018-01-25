@@ -1,13 +1,13 @@
 # Project Name
 
-> Pithy project description
+> An online marketplace for booking local artists and DJ's
 
 ## Team
 
-  - teamMember
-  - teamMember
-  - teamMember
-  - teamMember
+  - Ed Chu
+  - David Arellano
+  - Vu Chau
+  - Aygerim Sauletkhan
 
 ## Table of Contents
 
