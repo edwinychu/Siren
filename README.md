@@ -13,6 +13,7 @@
 * Vu
 * Ed
 
+
 ## Table of Contents
 
 1. [Usage](#Usage)
@@ -25,11 +26,10 @@
 
 ## Requirements
 
-* Node 6.4.x
-* Redis 2.6.x
-* Postgresql 9.1.x
-* etc
-* etc
+* Node (latest)
+* Postgresql (latest)
+* React (latest)
+* Express (latest)
 
 ## Development
 
