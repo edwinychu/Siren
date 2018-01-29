@@ -1,4 +1,6 @@
 ### node etc ###
+.vscode
+yarn.lock
 
 # Logs
 logs
@@ -20,10 +22,19 @@ coverage
 
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/
-dist/
+client/dist/bundle.js
 
 # Dependency directorys
 # Deployed apps should consider commenting these lines out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
 node_modules/
 bower_components/
+.DS_Store
+npm-debug.log
+
+#config folder
+config/
+
+# Database data
+Database/migrations
+Database/seeds
